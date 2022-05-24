@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a beginner app to monitor  your progress in the 100 days of code. :)",
+    "githubUrl": "https://github.com/KevinMactoo/react_native.git"
   }
 }
